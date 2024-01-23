@@ -1,5 +1,5 @@
-<strong align="center"> Hi there 👋 </strong>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true" />
+<p><strong align="center"> Hi there 👋 </strong></p><br/>
+<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true" />
 
 <!--
 **kianoushmahboob/kianoushmahboob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
