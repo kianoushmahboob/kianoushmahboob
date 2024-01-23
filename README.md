@@ -3,7 +3,7 @@
   I'm Kianoush, a passionate software developer
     specializing in <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white" /> and
   <img src="https://img.shields.io/badge/Django-green?style=flat&logo=django&logoColor=white"/>, with a sprinkle of 
-  <img src="https://img.shields.io/badge/javascript-black?style=flat&logo=javascript&logoColor=white%20"/>.
+  <img src="https://img.shields.io/badge/javascript-%23fff200?style=flat&logo=javascript&logoColor=black"/>.
     I thrive on coding, crafting innovative solutions, and have an insatiable
     enthusiasm for learning new technologies.
 
