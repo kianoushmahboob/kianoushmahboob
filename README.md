@@ -10,7 +10,7 @@
 </h3>
 <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=kianoushmahboob&theme=dark&show_icons=true&rank_icon=github&include_all_commits=true&hide=stars,contribs" />
 ## Skills
-![python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white&label=LANG)
+<img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white&label=LANG" /> 
 <!--
 **kianoushmahboob/kianoushmahboob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
