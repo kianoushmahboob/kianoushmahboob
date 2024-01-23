@@ -1,8 +1,8 @@
 <p><strong align="center"> Hi there 👋 </strong></p><br/>
 <h3>
   I'm Kianoush, a passionate software developer
-    specializing in <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white" /> and <img src="https://img.shields.io/badge/Django-green?style=flat&logo=django&logoColor=white
-" />, with a sprinkle of JavaScript.
+    specializing in <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white" /> and
+  <img src="https://img.shields.io/badge/Django-green?style=flat&logo=django&logoColor=white"/>, with a sprinkle of JavaScript.
     I thrive on coding, crafting innovative solutions, and have an insatiable
     enthusiasm for learning new technologies.
 
