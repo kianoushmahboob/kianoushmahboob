@@ -2,7 +2,7 @@
 <h3>
   <pre>
     I'm Kianoush, a passionate software developer
-    specializing in <a href="https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white&label=LANG"></a> and Django, with a sprinkle of JavaScript.
+    specializing in ![python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white&label=LANG) and Django, with a sprinkle of JavaScript.
     I thrive on coding, crafting innovative solutions, and have an insatiable
     enthusiasm for learning new technologies.
   </pre>
