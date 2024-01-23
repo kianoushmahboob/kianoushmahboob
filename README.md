@@ -9,9 +9,7 @@
 
 </h3>
 <p>
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=kianoushmahboob&theme=dark&show_icons=true&rank_icon=github&include_all_commits=true&hide=stars,contribs" />
-***
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kianoushmahboob&hide_progress=true&theme=dark" />
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=kianoushmahboob&theme=dark&show_icons=true&rank_icon=github&include_all_commits=true&hide=stars,contribs" /><img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kianoushmahboob&hide_progress=true" />
 </p>
 <!--
 **kianoushmahboob/kianoushmahboob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
