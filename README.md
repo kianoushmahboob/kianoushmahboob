@@ -8,7 +8,11 @@
     enthusiasm for learning new technologies.
 
 </h3>
-<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=kianoushmahboob&theme=dark&show_icons=true&rank_icon=github&include_all_commits=true&hide=stars,contribs" />
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=kianoushmahboob&theme=dark&show_icons=true&rank_icon=github&include_all_commits=true&hide=stars,contribs" />
+---
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kianoushmahboob&hide_progress=true" />
+
+
 ## Skills
 
 <!--
