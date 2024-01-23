@@ -1,8 +1,6 @@
 <p><strong align="center"> Hi there 👋 </strong></p><br/>
 <h3>
-  
-  
-    I'm Kianoush, a passionate software developer
+  I'm Kianoush, a passionate software developer
     specializing in <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white&label=LANG" /> and Django, with a sprinkle of JavaScript.
     I thrive on coding, crafting innovative solutions, and have an insatiable
     enthusiasm for learning new technologies.
